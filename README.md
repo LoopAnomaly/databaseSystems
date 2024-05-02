@@ -1,4 +1,4 @@
-#**Installation Instructions**
+# **Installation Instructions**
 
 1.	Download Composer
 2.	Download and install XAMPP
