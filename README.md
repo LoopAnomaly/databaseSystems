@@ -5,7 +5,7 @@
 3.	Use XAMPP to start Apache and MySQL
 4.	Download the project from this repository
 5.	Unzip the project somwhere that can be easily located
-6.	Navigate to the “htdocs” folder in your xampp directory
+6.	Navigate to the “htdocs” folder in your xampp directory (the xampp directory is typically in the root of the C drive if on Windows)
 7.	Copy the extracted project folder into the “htdocs” folder
 8.	Using Windows Powershell, or a terminal relevant to your OS, navigate to the project folder
 9.	In the terminal, type “php artisan migrate”
